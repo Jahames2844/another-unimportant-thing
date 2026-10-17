@@ -14,7 +14,7 @@ int main()
     
     cout << "How old are you?\n";
         if (cin >> age) {cout << "valid age.\n";
-        } git else {cout << "Invalid age."; return 1;}
+        } else {cout << "Invalid age."; return 1;}
     cin >> age;
 
     cout << "How much do you weigh?\n";
